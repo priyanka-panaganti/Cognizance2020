@@ -6,3 +6,6 @@ git log
 git merge
 git pull
 git push
+git fetch
+git commit
+
