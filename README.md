@@ -1,10 +1,10 @@
-# cognizance2020
+># cognizance2020
 
 *this is priyanka*
 
 **my project is on the types of the  disasters and how the disaster management work to protect the human loss and life from the disasters.**
 
-  ## FEATURES:
+  >## FEATURES:
 
 * Remote monitoring of disaster and relief response.
 
@@ -37,4 +37,4 @@
 * -Twitter Stream data analysis to coordinate response and relief.
 
 
-#     PROJECT IS MAINLY ON THE DISASTER MANAGEMENT
+>#     PROJECT IS MAINLY ON THE DISASTER MANAGEMENT
