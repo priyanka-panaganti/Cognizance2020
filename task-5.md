@@ -22,4 +22,5 @@ ELSE
 > ## flowgarithm for the armstrong number:
 ---
 
-! 
+![Screenshot (9)](https://user-images.githubusercontent.com/75232318/102122448-7e84fe80-3e6b-11eb-9e08-6581fb76a6d5.png)
+
